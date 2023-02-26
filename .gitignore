@@ -1,0 +1,20 @@
+# Python-specific ignores
+__pycache__/
+*.pyc
+*.pyo
+
+# Other ignores
+.cache/
+.config/
+.ump/
+venv/
+.replit/
+replit_zip_error_log.txt
+replit.nix
+
+# Files to keep
+license.txt
+prob_calculator/
+README.md
+main.py
+test_module.py
